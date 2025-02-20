@@ -3,6 +3,8 @@ Commandline app to convert XLSX to PDF using Aspose. Aspose is not a free servic
 
 If you want to add a license, please add it into a file called ```aspose.lic``` into the same path from where the app is running.
 
+Requires .NET 8
+
 ## To build:
 
 ```
