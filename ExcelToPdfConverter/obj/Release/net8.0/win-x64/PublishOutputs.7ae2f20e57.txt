@@ -1,0 +1,9 @@
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\ExcelToPdfConverter.exe
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\ExcelToPdfConverter.dll
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\ExcelToPdfConverter.deps.json
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\ExcelToPdfConverter.runtimeconfig.json
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\ExcelToPdfConverter.pdb
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\Aspose.Cells.dll
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\SkiaSharp.dll
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\System.Security.Cryptography.Pkcs.dll
+C:\Code\CMDlineAppXLSXtoPDF\ExcelToPdfConverter\bin\Release\net8.0\win-x64\publish\libSkiaSharp.dll
